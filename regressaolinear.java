@@ -6,7 +6,7 @@ import java.util.List;
 /*
 y = a * bx
 ho(x) = a * bx
-regressão linear = 1/(2m) * E(ho(x) - y)^ 2
+regressão linear = 1/(2m) * ∑(ho(x) - y)^ 2
 */
 
 public class RegressaoLinear {
