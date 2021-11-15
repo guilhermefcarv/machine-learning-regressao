@@ -5,8 +5,8 @@ import java.util.List;
 //como calcular as funções
 /*
 y = a * bx
-ho(x) = a * bx
-regressão linear = 1/(2m) * ∑(ho(x) - y)^ 2
+∑(x) = a * bx
+gradient descent = 1/(2m) * ∑(θ(x) - y)^ 2
 */
 
 public class RegressaoLinear {
