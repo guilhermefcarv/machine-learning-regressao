@@ -4,10 +4,6 @@ import classes.DadosRegressao;
 import classes.RegressaoLinear;
 import java.util.ArrayList;
 
-/**
- *
- * @author Aulas
- */
 public class Principal {
     
     public static void main(String args[]) {
